@@ -1,0 +1,7 @@
+
+5squid:S3457"2nd argument is not used.(ï‘şÍ8ğËã•,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(”òÆø8ØÀƒ•,
+5squid:S3457"3rd argument is not used.(ï‘şÍ8ÍÇä•,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óææûÿÿÿÿ8ØÀƒ•,
+Osquid:S1481".Remove this unused "nameParts" local variable.(ÏıÅÅøÿÿÿÿ8ÏÔõ•,
+^squid:S1854"=Remove this useless assignment to local variable "nameParts".(ÏıÅÅøÿÿÿÿ8ÏÔõ•,
